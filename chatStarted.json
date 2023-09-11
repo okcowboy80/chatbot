@@ -1,0 +1,16 @@
+{
+    "widget_id":"ff7b3314-24de-4a4c-b48b-1cf38d19acf0",
+    "case_id":"ab992c69-7de8-46cc-9aaa-329d336bc182",
+    "timestamp":1554321077338,
+    "event":"chatStarted",
+    "text":"Greetings!",
+    "user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36",
+    "entry_url":"https://example.com/",
+    "page_url":"https://example.com/contact",
+    "ip_address":"71.56.219.144",
+    "geo":{
+      "city":"Boulder",
+      "region":"CO",
+      "country_code":"US"
+    }
+  }
